@@ -13,7 +13,7 @@ Publications
 ------
 L. Zhang, Y. Wang, A. Ostropolets, J.J. Mulgrave, D.M. Blei, and G. Hripcsak. The Medical Deconfounder: Assessing Treatment Effect with Electronic Health Records (EHRs)
 Machine Learning for Healthcare (MLHC), 2019.   
-[PDF](https://arxiv.org/pdf/1904.02098.pdf)[Poster]()
+[PDF](https://arxiv.org/pdf/1904.02098.pdf)
 
 Teaching
 ------
