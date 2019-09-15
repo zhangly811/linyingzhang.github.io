@@ -11,9 +11,13 @@ I’m a Ph.D. student in the [Department of Biomedical Informatics](https://www.
 
 Publications
 ------
-L. Zhang, Y. Wang, A. Ostropolets, J.J. Mulgrave, D.M. Blei, and G. Hripcsak. The Medical Deconfounder: Assessing Treatment Effect with Electronic Health Records (EHRs)
+**L. Zhang**, Y. Wang, A. Ostropolets, J.J. Mulgrave, D.M. Blei, and G. Hripcsak. The Medical Deconfounder: Assessing Treatment Effect with Electronic Health Records.
 Machine Learning for Healthcare (MLHC), 2019.   
 [[PDF](https://arxiv.org/pdf/1904.02098.pdf)]
+
+O. Gottesman, F. Johansson, J. Meier, J. Dent, D. Lee, S. Srinivasan, **L. Zhang**, Y. Ding, D. Wihl, X. Peng, J. Yao, I. Lage, C. Mosch, L.H. Lehman, M. Komorowski, A. Faisal, L. Celi, D. Sontag, F. Doshi-Velez. Evaluating reinforcement learning algorithms in observational health settings.
+Arxiv preprint. 2018.
+[[PDF](https://arxiv.org/pdf/1805.12298.pdf)]
 
 Teaching
 ------
