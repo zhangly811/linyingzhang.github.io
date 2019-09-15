@@ -18,4 +18,5 @@ Machine Learning for Healthcare (MLHC), 2019.
 Teaching
 ------
 Computer Applications in Health Care & Biomedicine. Columbia University. Fall 2019.
+
 Principles of Biostatistics I&II. Harvard T.H.Chan School of Public Health. Summer 2017.
