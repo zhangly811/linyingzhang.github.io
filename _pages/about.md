@@ -9,6 +9,8 @@ redirect_from:
 ---
 I’m a Ph.D. student in the [Department of Biomedical Informatics](https://www.dbmi.columbia.edu) at Columbia University, advised by Professor [George Hripcsak](http://people.dbmi.columbia.edu/hripcsak/) and co-advised by [David Blei](http://www.cs.columbia.edu/~blei/) at the [Data Science Institute](https://datascience.columbia.edu). My research focuses on developing machine learning methods for causal inference with electronic health records. 
 
+You can reach me at linying [dot] zhang [at] columbia [dot] edu
+
 Publications
 ------
 **The Medical Deconfounder: Assessing Treatment Effect with Electronic Health Records.**<br>
