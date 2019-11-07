@@ -9,7 +9,7 @@ redirect_from:
 ---
 I’m a Ph.D. student in the [Department of Biomedical Informatics](https://www.dbmi.columbia.edu) at Columbia University, advised by Professor [George Hripcsak](http://people.dbmi.columbia.edu/hripcsak/) and [David Blei](http://www.cs.columbia.edu/~blei/). My research focuses on developing machine learning methods for causal inference with electronic health records. 
 
-Before my PhD, I completed a master's degree at Harvard advised by Professor [Giovanni Parmigiani](https://scholar.harvard.edu/parmigiani). 
+Before my PhD, I completed a master's degree at Harvard advised by Professor [Giovanni Parmigiani](https://scholar.harvard.edu/parmigiani) and a bachelor's degree at Boston University advised by Professor [Ulla Hansen](https://www.bu.edu/biology/people/profiles/ulla-hansen/).
 
 You can reach me at linying [dot] zhang [at] columbia [dot] edu
 
