@@ -17,10 +17,10 @@ You can reach me at linying [dot] zhang [at] columbia [dot] edu or on [Twitter](
 
 News
 ------
-12/8-12/14: I will be attending NeurIPS, Vancouver, Canada.<br>
-11/13-11/16: I will be attending AMIA, Washington, D.C., USA.<br>
+12/08/2019-12/14/2019: I will be attending NeurIPS, Vancouver, Canada.<br>
+11/13/2019-11/16/2019: I will be attending AMIA, Washington, D.C., USA.<br>
 
-Publications \& Preprints
+Publications & Preprints
 ------
 **The Medical Deconfounder: Assessing Treatment Effect with Electronic Health Records.**<br>
 **L. Zhang**, Y. Wang, A. Ostropolets, J.J. Mulgrave, D.M. Blei, and G. Hripcsak.<br>
