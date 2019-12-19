@@ -11,7 +11,7 @@ I’m a Ph.D. student in the [Department of Biomedical Informatics](https://www.
 
 Before my PhD, I completed a master's degree at Harvard advised by Professor [Giovanni Parmigiani](https://scholar.harvard.edu/parmigiani) and a bachelor's degree at Boston University advised by Professor [Ulla Hansen](https://www.bu.edu/biology/people/profiles/ulla-hansen/). I also worked at Alnylam Pharmaceuticals Inc. as a research scientist in the drug discovery group. 
 
-Here is my [CV](https://linyingzhang.github.io/files/CV_linyingzhang.pdf).
+Here is my [CV](https://github.com/zhangly811/linyingzhang.github.io/blob/master/files/CV_linyingzhang.pdf).
 
 You can reach me at linying [dot] zhang [at] columbia [dot] edu or on [Twitter](https://twitter.com/Z_Linying). 
 
