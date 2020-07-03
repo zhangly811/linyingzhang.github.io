@@ -17,15 +17,16 @@ You can reach me at linying [dot] zhang [at] columbia [dot] edu or on [Twitter](
 
 News
 ------
-12/08/2019-12/14/2019: I will be attending NeurIPS, Vancouver, Canada.<br>
-11/13/2019-11/16/2019: I will be attending AMIA, Washington, D.C., USA.<br>
+11/14/2020-11/18/2020: Attending virtual AMIA 2020.<br>
+12/08/2019-12/14/2019: Attending NeurIPS, Vancouver, Canada.<br>
+11/13/2019-11/16/2019: Attending AMIA, Washington, D.C., USA.<br>
 
 Publications & Preprints
 ------
-**The Medical Deconfounder: Assessing Treatment Effect with Electronic Health Records.**<br>
+**The Medical Deconfounder: Assessing Treatment Effects with Electronic Health Records.**<br>
 **L. Zhang**, Y. Wang, A. Ostropolets, J.J. Mulgrave, D.M. Blei, and G. Hripcsak.<br>
 In *Proceedings of the 4th Machine Learning for Healthcare Conference*, volume 106 of *Proceedings of Machine Learning Research*, pages 490-512, Ann Arbor, Michigan, 2019.  
-[[PDF](http://proceedings.mlr.press/v106/zhang19a/zhang19a.pdf)]
+[[PDF](http://proceedings.mlr.press/v106/zhang19a/zhang19a.pdf)][[code](https://github.com/zhangly811/Medical_deconfounder_simulation)]
 
 **Evaluating reinforcement learning algorithms in observational health settings.**<br>
 O. Gottesman, F. Johansson, J. Meier, J. Dent, D. Lee, S. Srinivasan, **L. Zhang**, Y. Ding, D. Wihl, X. Peng, J. Yao, I. Lage, C. Mosch, L.H. Lehman, M. Komorowski, A. Faisal, L. Celi, D. Sontag, F. Doshi-Velez.<br>
