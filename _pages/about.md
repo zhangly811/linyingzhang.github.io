@@ -15,28 +15,32 @@ Here is my [CV](https://linyingzhang.com/files/CV_linyingzhang.pdf).
 
 You can reach me at linying [dot] zhang [at] columbia [dot] edu or on [Twitter](https://twitter.com/Z_Linying). 
 
-News
-------
-11/14/2020-11/18/2020: Attending virtual AMIA 2020.<br>
-12/08/2019-12/14/2019: Attending NeurIPS, Vancouver, Canada.<br>
-11/13/2019-11/16/2019: Attending AMIA, Washington, D.C., USA.<br>
 
-Publications & Preprints
+Selected Publications & Preprints
 ------
+**Adjusting for unobserved confounding using large-scale propensity scores..**<br>
+**L. Zhang**, Y. Wang, M.J. Schuemie, D.M. Blei, and G. Hripcsak.<br>
+*arXiv preprint*, 2021.  
+[[PDF](https://arxiv.org/pdf/2110.12235.pdf)]
+
+**Assessing the impact of race on glomerular filtration rate (GFR) prediction.**<br>
+**L. Zhang**, L.R. Richter, and G. Hripcsak.<br>
+*medRxiv*, 2021.  
+[[PDF](https://www.medrxiv.org/content/medrxiv/early/2021/10/26/2021.10.26.21265423.full.pdf)]
+
 **The Medical Deconfounder: Assessing Treatment Effects with Electronic Health Records.**<br>
 **L. Zhang**, Y. Wang, A. Ostropolets, J.J. Mulgrave, D.M. Blei, and G. Hripcsak.<br>
 In *Proceedings of the 4th Machine Learning for Healthcare Conference*, volume 106 of *Proceedings of Machine Learning Research*, pages 490-512, Ann Arbor, Michigan, 2019.  
 [[PDF](http://proceedings.mlr.press/v106/zhang19a/zhang19a.pdf)][[code](https://github.com/zhangly811/Medical_deconfounder_simulation)]
 
+**Predicting pressure injury using nursing assessment phenotypes and machine learning methods.**<br>
+W. Song, M.J. Kang, **L. Zhang**, W. Jung, J. Song, D.W. Bates, P.C. Dykes.<br>
+*Journal of the American Medical Informatics Association*, 28 (4), 759-765, 2021.
+
 **Evaluating reinforcement learning algorithms in observational health settings.**<br>
 O. Gottesman, F. Johansson, J. Meier, J. Dent, D. Lee, S. Srinivasan, **L. Zhang**, Y. Ding, D. Wihl, X. Peng, J. Yao, I. Lage, C. Mosch, L.H. Lehman, M. Komorowski, A. Faisal, L. Celi, D. Sontag, F. Doshi-Velez.<br>
 *Arxiv preprint*, 2018.
 [[PDF](https://arxiv.org/pdf/1805.12298.pdf)]
-
-Selected Presentations & Posters
-------
-**L. Zhang**, Y. Wang, A. Ostropolets, J.J. Mulgrave, D.M. Blei, and G. Hripcsak. The Medical Deconfounder: Assessing Treatment Effect with Electronic Health Records. *Machine Learning for Health Workshop*. Vancouver, Canada. 2019.<br>
-**L. Zhang**, M.K. Samur, R. Szalat, C.B. Epstein, R. Prabhala, M. Fulciniti, N.C. Munshi*, G. Parmigiani*. Interactions between multiple myeloma cells and bone marrow stromal cells impact epigenetic profiles of multiple myeloma. *Program in Quantitative Genomics Conference*. Boston, MA. 2017.
 
 Teaching
 ------
