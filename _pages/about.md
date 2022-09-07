@@ -30,7 +30,7 @@ Selected Publications & Preprints
 
 **The Medical Deconfounder: Assessing Treatment Effects with Electronic Health Records.**<br>
 **L. Zhang**, Y. Wang, A. Ostropolets, J.J. Mulgrave, D.M. Blei, and G. Hripcsak.<br>
-* Machine Learning for Healthcare Conference*, 2019.  
+*Machine Learning for Healthcare Conference*, 2019.  
 [[PDF](http://proceedings.mlr.press/v106/zhang19a/zhang19a.pdf)][[code](https://github.com/zhangly811/Medical_deconfounder_simulation)]
 
 **Predicting pressure injury using nursing assessment phenotypes and machine learning methods.**<br>
