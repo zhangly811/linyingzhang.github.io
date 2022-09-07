@@ -18,9 +18,9 @@ You can reach me at linying [dot] zhang [at] columbia [dot] edu or on [Twitter](
 
 Selected Publications & Preprints
 ------
-**Adjusting for unobserved confounding using large-scale propensity scores..**<br>
+**Adjusting for indirectly measured confounding using large-scale propensity score.**<br>
 **L. Zhang**, Y. Wang, M.J. Schuemie, D.M. Blei, and G. Hripcsak.<br>
-*arXiv preprint*, 2021.  
+*Journal of Biomedical Informatics*, 2022.  
 [[PDF](https://arxiv.org/pdf/2110.12235.pdf)]
 
 **Assessing the impact of race on glomerular filtration rate (GFR) prediction.**<br>
@@ -30,16 +30,20 @@ Selected Publications & Preprints
 
 **The Medical Deconfounder: Assessing Treatment Effects with Electronic Health Records.**<br>
 **L. Zhang**, Y. Wang, A. Ostropolets, J.J. Mulgrave, D.M. Blei, and G. Hripcsak.<br>
-In *Proceedings of the 4th Machine Learning for Healthcare Conference*, volume 106 of *Proceedings of Machine Learning Research*, pages 490-512, Ann Arbor, Michigan, 2019.  
+* Machine Learning for Healthcare Conference*, 2019.  
 [[PDF](http://proceedings.mlr.press/v106/zhang19a/zhang19a.pdf)][[code](https://github.com/zhangly811/Medical_deconfounder_simulation)]
 
 **Predicting pressure injury using nursing assessment phenotypes and machine learning methods.**<br>
 W. Song, M.J. Kang, **L. Zhang**, W. Jung, J. Song, D.W. Bates, P.C. Dykes.<br>
-*Journal of the American Medical Informatics Association*, 28 (4), 759-765, 2021.
+*Journal of the American Medical Informatics Association*, 2021.
+
+**Predicting hospitalization of COVID-19 positive patients using clinician-guided machine learning methods.**<br>
+Song W., **Zhang L.**, Liu L., Sainlaire M., Karvar M., Kang M., Pullman A., Lipsitz S., Massaro A., Patil N., Jasuja R., Dykes P.C. <br>
+*Journal of the American Medical Informatics Association*, 2021. [Presentation]
 
 **Evaluating reinforcement learning algorithms in observational health settings.**<br>
 O. Gottesman, F. Johansson, J. Meier, J. Dent, D. Lee, S. Srinivasan, **L. Zhang**, Y. Ding, D. Wihl, X. Peng, J. Yao, I. Lage, C. Mosch, L.H. Lehman, M. Komorowski, A. Faisal, L. Celi, D. Sontag, F. Doshi-Velez.<br>
-*Arxiv preprint*, 2018.
+*arXiv preprint*, 2018.
 [[PDF](https://arxiv.org/pdf/1805.12298.pdf)]
 
 Teaching
