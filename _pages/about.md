@@ -44,7 +44,7 @@ Richter L.R., Albert B.I., **Zhang L.**, Ostropolets A., Zitsman J.L., Fennoy I.
 **Predicting hospitalization of COVID-19 positive patients using clinician-guided machine learning methods.**<br>
 Song W., **Zhang L.**, Liu L., Sainlaire M., Karvar M., Kang M., Pullman A., Lipsitz S., Massaro A., Patil N., Jasuja R., Dykes P.C. <br>
 *Journal of the American Medical Informatics Association*, 2022.
-[[PDF](https://watermark.silverchair.com/ocac083.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAsowggLGBgkqhkiG9w0BBwagggK3MIICswIBADCCAqwGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM7dVqdUbs_5gKDaHlAgEQgIICfeDQIKEgAsclGM3ylyJNCaHvZFoONqLbkJKUbs72ar69Ai_IzKkYJzyXPferEXWeLdkF5JvH9YLgijO19sFXk5g4iWx0VmNV-A9dlRpVDYvp7dFTPKqu5Gnf0ux__l2iRpd6ZDNejuivBXsKeIwxk2YSgYimc7URET6IGoyQ7CsMJuoHXxGrfcQkTVW7XtW4F-2KejW-6c54bQ0stwkyWrPWJwAlHoaWzwtSK-8yEmjTRGIhfaxqRWJOKr1YLW46_fIIxlIExGTAwuDxb6Edg9a8gH9Uabgypl3qauThB-qeDeslt4dycRO97ONYG8Ng59-RYmHqvOushPuxpEtSSC_Y-gGp6FySgd0mFgPDmLdh8ZzuIFWcqvD0UJ5FZZ1ziFii5ZpHJsBQ5in-5ufREQsM3TydcqHQ7-vLTcQ5V1e6EzpQyQpZ3pRctKKF_o4HoYcFOPeojsuqZiNSOc5qDEm_Q2Lle5pd0IeaDBSUGi9eig5RG47Q9DDpc564iKSI66k-LTZscb63HJo1slmHSIW9fCs7jgJyZquQvZiBsU8l9hgXjdVUUkKA5HZXPAIfgFukraad-bOQaFrw9kes1qObHWi8HqZZbZMcrnGrio1dx04RQBeRsZOZJ_u6EzVtH7PEphxE1somqCLe6NM-gVz5nocBzIIbY8zvcWRlXlv2jJcRRdq3Fr93S40nwdIQcYe-Ky7zJQNEIrROrU7kRhBvAESvOCzHauMrM5dpW1TXITXYd9yFM1PkJc7lp5D7Ah9r-XylRt_YAx9dyMciE7NhNGcZEssPCMxOHZnhjKUq140gfORvCTVdSaz7vGuscBgI-QPiNTl-67azhT4)]
+[[PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9129151/pdf/ocac083.pdf)]
 
 
 **Predicting pressure injury using nursing assessment phenotypes and machine learning methods.**<br>
