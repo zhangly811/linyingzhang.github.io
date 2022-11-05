@@ -50,7 +50,7 @@ Song W., **Zhang L.**, Liu L., Sainlaire M., Karvar M., Kang M., Pullman A., Lip
 **Predicting pressure injury using nursing assessment phenotypes and machine learning methods.**<br>
 Song W., **Zhang L.**, Liu L., Sainlaire M., Karvar M., Kang M., Pullman A., Lipsitz S., Massaro A., Patil N., Jasuja R., Dykes P.C. <br>
 *Journal of the American Medical Informatics Association*, 2021.
-[[PDF]()]
+[[PDF](https://linyingzhang.com/files/Song2021.pdf)]
 
 
 
