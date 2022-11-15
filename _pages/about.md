@@ -20,7 +20,7 @@ Selected Publications & Preprints
 ------
 **A Bayesian causal inference approach for assessing fairness in clinical decision-making.**<br> 
 **Zhang L.**, Richter L.R., Wang Y., Ostropolets A., Elhadad N., Blei D.M., Hripcsak G.<br>
-*arXiv preprint*, 2022.
+*arXiv preprint*, 2022.<br>
 [[PDF](https://linyingzhang.com/files/Zhang2022_principalFairness_arXiv.pdf)]
 
 **Adjusting for indirectly measured confounding using large-scale propensity score.**<br>
@@ -44,13 +44,13 @@ Richter L.R., Albert B.I., **Zhang L.**, Ostropolets A., Zitsman J.L., Fennoy I.
 
 **Predicting hospitalization of COVID-19 positive patients using clinician-guided machine learning methods.**<br>
 Song W., **Zhang L.**, Liu L., Sainlaire M., Karvar M., Kang M., Pullman A., Lipsitz S., Massaro A., Patil N., Jasuja R., Dykes P.C. <br>
-*Journal of the American Medical Informatics Association*, 2022.
+*Journal of the American Medical Informatics Association*, 2022.<br>
 [[PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9129151/pdf/ocac083.pdf)]
 
 
 **Predicting pressure injury using nursing assessment phenotypes and machine learning methods.**<br>
 Song W., **Zhang L.**, Liu L., Sainlaire M., Karvar M., Kang M., Pullman A., Lipsitz S., Massaro A., Patil N., Jasuja R., Dykes P.C. <br>
-*Journal of the American Medical Informatics Association*, 2021.
+*Journal of the American Medical Informatics Association*, 2021.<br>
 [[PDF](https://linyingzhang.com/files/Song2021.pdf)]
 
 
