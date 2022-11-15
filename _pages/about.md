@@ -21,6 +21,7 @@ Selected Publications & Preprints
 **A Bayesian causal inference approach for assessing fairness in clinical decision-making.**<br> 
 **Zhang L.**, Richter L.R., Wang Y., Ostropolets A., Elhadad N., Blei D.M., Hripcsak G.<br>
 *arXiv preprint*, 2022.
+[[PDF](https://linyingzhang.com/files/Zhang2022_principalFairness_arXiv.pdf)]
 
 **Adjusting for indirectly measured confounding using large-scale propensity score.**<br>
 **L. Zhang**, Y. Wang, M.J. Schuemie, D.M. Blei, and G. Hripcsak.<br>
