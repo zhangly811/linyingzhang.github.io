@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I’m a Ph.D. student in the [Department of Biomedical Informatics](https://www.dbmi.columbia.edu) at Columbia University, advised by Professor [George Hripcsak](http://people.dbmi.columbia.edu/hripcsak/) and [David Blei](http://www.cs.columbia.edu/~blei/). My research focuses on developing machine learning methods for causal inference with electronic health records. 
+I’m a Ph.D. candidate in the [Department of Biomedical Informatics](https://www.dbmi.columbia.edu) at Columbia University, advised by Professor [George Hripcsak](http://people.dbmi.columbia.edu/hripcsak/) and [David Blei](http://www.cs.columbia.edu/~blei/). My research focuses on developing machine learning methods for causal inference with electronic health records.
 
 Before my PhD, I completed a master's degree at Harvard advised by Professor [Giovanni Parmigiani](https://scholar.harvard.edu/parmigiani) and a bachelor's degree at Boston University advised by Professor [Ulla Hansen](https://www.bu.edu/biology/people/profiles/ulla-hansen/). I also worked at Alnylam Pharmaceuticals Inc. as a research scientist in the drug discovery group. 
 
@@ -19,7 +19,7 @@ You can reach me at linying [dot] zhang [at] columbia [dot] edu or on [Twitter](
 Selected Publications & Preprints
 ------
 **A Bayesian causal inference approach for assessing fairness in clinical decision-making.**<br> 
-**Zhang L.**, Richter L.R., Wang Y., Ostropolets A., Elhadad N., Blei D.M., Hripcsak G.<br>
+**Zhang L.**, Richter L.R., Wang Y., Ostropolets A., Elhadad N., Blei D.M., and Hripcsak G.<br>
 *arXiv preprint*, 2022.<br>
 [[PDF](https://linyingzhang.com/files/Zhang2022_principalFairness_arXiv.pdf)]
 
@@ -39,17 +39,18 @@ Selected Publications & Preprints
 [[PDF](http://proceedings.mlr.press/v106/zhang19a/zhang19a.pdf)][[code](https://github.com/zhangly811/Medical_deconfounder_simulation)]
 
 **Data assimilation on mechanistic models of glucose metabolism predicts glycemic states in adolescents following bariatric surgery.**<br>
-Richter L.R., Albert B.I., **Zhang L.**, Ostropolets A., Zitsman J.L., Fennoy I., Albers D., Hripcsak G.<br>
-*Frontiers in Physiology*, 2022.
+Richter L.R., Albert B.I., **Zhang L.**, Ostropolets A., Zitsman J.L., Fennoy I., Albers D., and Hripcsak G.<br>
+*Frontiers in Physiology*, 2022.<br>
+[[PDF](https://www.frontiersin.org/articles/10.3389/fphys.2022.923704/full)]
 
 **Predicting hospitalization of COVID-19 positive patients using clinician-guided machine learning methods.**<br>
-Song W., **Zhang L.**, Liu L., Sainlaire M., Karvar M., Kang M., Pullman A., Lipsitz S., Massaro A., Patil N., Jasuja R., Dykes P.C. <br>
+Song W., **Zhang L.**, Liu L., Sainlaire M., Karvar M., Kang M., Pullman A., Lipsitz S., Massaro A., Patil N., Jasuja R., and Dykes P.C. <br>
 *Journal of the American Medical Informatics Association*, 2022.<br>
 [[PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9129151/pdf/ocac083.pdf)]
 
 
 **Predicting pressure injury using nursing assessment phenotypes and machine learning methods.**<br>
-Song W., **Zhang L.**, Liu L., Sainlaire M., Karvar M., Kang M., Pullman A., Lipsitz S., Massaro A., Patil N., Jasuja R., Dykes P.C. <br>
+Song W., Kang M., **Zhang L.**, Jung W., Song J., Bates D., and Dykes P.C. <br>
 *Journal of the American Medical Informatics Association*, 2021.<br>
 [[PDF](https://linyingzhang.com/files/Song2021.pdf)]
 
