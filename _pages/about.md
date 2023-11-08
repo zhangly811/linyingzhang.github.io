@@ -14,9 +14,16 @@ My recent research has focused on addressing confounding bias in observational s
 2. developing heterogeneous and individualized treatment effect estimation algorithms for personalized treatment planning
 3. improving the equity of health care through machine learning.
 
-I am open to mentor graduate and undergraduate students. I am also looking for full-time research assistants and postdoc researchers. Please email me your CV and cover letter if you are interested.
+I am open to mentor graduate and undergraduate students. I am also looking for full-time research assistants and postdoc researchers. Please email me your CV and a cover letter if you are interested in working in my lab.
 
 You can reach me at linyingz [at] wustl [dot] edu or on [Twitter](https://twitter.com/Z_Linying). 
+
+News
+------
+* Nov 11-15 2023: I will be at the [AMIA Symposium](https://amia.org/education-events/amia-2023-annual-symposium) presenting our work on causality for health disparities research!<br>
+* Oct 2023: I started my job as an assistant professor of biostatistics at Washington University! <br>
+* July 2023: I successfully defended my [thesis](https://doi.org/10.7916/9mj1-z342)! <br>
+* Oct 2022: I received the OHDSI Best Community Contribution Award in Methodological Research for my work on [health equity](https://www.ohdsi.org/2022showcase-117/)! <br>
 
 
 Selected Publications & Preprints
@@ -24,7 +31,7 @@ Selected Publications & Preprints
 **Causal machine learning for reliable real-world evidence generation in healtcare.**<br>
 **Linying Zhang**<br>
 *PhD thesis, Columbia University*, 2023. <br>
-[[URL]](https://doi.org/10.7916/9mj1-z342)
+[[URL](https://doi.org/10.7916/9mj1-z342)]
 
 **A Bayesian causal inference approach for assessing fairness in clinical decision-making.**<br> 
 **Zhang L.**, Richter L.R., Wang Y., Ostropolets A., Elhadad N., Blei D.M., and Hripcsak G.<br>
