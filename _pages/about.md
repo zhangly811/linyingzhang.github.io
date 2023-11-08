@@ -7,17 +7,25 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an assistant professor of Biostatistics at Washington University in St. Louis [Institute for Informatics, Data Science, & Biostatistics](https://i2db.wustl.edu). My research focuses on developing machine learning methods for causal inference with electronic health records.
+I am an assistant professor of biostatistics at the [Institute for Informatics, Data Science, & Biostatistics](https://i2db.wustl.edu) at [Washington University School of Medicine in St. Louis](https://medicine.wustl.edu). My research focuses on developing causal inference and machine learning for real-world evidence generation from electronic health records. I completed my PhD in Biomedical Informatics at [Columbia University](https://www.dbmi.columbia.edu), advised by [George Hripcsak](http://people.dbmi.columbia.edu/hripcsak/) and [David Blei](http://www.cs.columbia.edu/~blei/). I have a master's degree in Computational Biology from [Harvard School of Public Health](https://www.hsph.harvard.edu) and a bachelor's degree from Boston University. Here is my [CV](https://linyingzhang.com/files/CV_linyingzhang.pdf).
 
-I completed my PhD in Biomedical Informatics at [Columbia University](https://www.dbmi.columbia.edu), advised by [George Hripcsak](http://people.dbmi.columbia.edu/hripcsak/) and [David Blei](http://www.cs.columbia.edu/~blei/). I have a master's degree in Computational Biology from [Harvard School of Public Health](https://www.hsph.harvard.edu) and a bachelor's degree from Boston University. 
+My recent research has focused on addressing confounding bias in observational studies using real-world data, and explaining root causes of healthcare disparities with causal machine learning. My research interests include: 
+1. developing federated causal machine learning for treatment effect estimation across multiple databases without sharing patient-level data.
+2. developing heterogeneous and individualized treatment effect estimation algorithms for personalized treatment planning
+3. improving the equity of health care through machine learning.
 
-Here is my [CV](https://linyingzhang.com/files/CV_linyingzhang.pdf).
+I am open to mentor graduate and undergraduate students. I am also looking for full-time research assistants and postdoc researchers. Please email me your CV and cover letter if you are interested.
 
 You can reach me at linyingz [at] wustl [dot] edu or on [Twitter](https://twitter.com/Z_Linying). 
 
 
 Selected Publications & Preprints
 ------
+**Causal machine learning for reliable real-world evidence generation in healtcare.**<br>
+**Linying Zhang**<br>
+*PhD thesis, Columbia University*, 2023. <br>
+[[URL]](https://doi.org/10.7916/9mj1-z342)
+
 **A Bayesian causal inference approach for assessing fairness in clinical decision-making.**<br> 
 **Zhang L.**, Richter L.R., Wang Y., Ostropolets A., Elhadad N., Blei D.M., and Hripcsak G.<br>
 *arXiv preprint*, 2022.<br>
