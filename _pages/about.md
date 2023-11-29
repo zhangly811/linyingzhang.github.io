@@ -11,15 +11,16 @@ I am an assistant professor of biostatistics at the [Institute for Informatics, 
 
 My recent research has focused on addressing confounding bias in observational studies using real-world data, and explaining root causes of healthcare disparities with causal machine learning. My research interests include: 
 1. developing federated causal machine learning for treatment effect estimation across multiple databases without sharing patient-level data.
-2. developing heterogeneous and individualized treatment effect estimation algorithms for personalized treatment planning
+2. developing heterogeneous and individualized treatment effect estimation algorithms for personalized treatment planning.
 3. improving the equity of health care through machine learning.
 
-I am open to mentor graduate and undergraduate students. I am also looking for full-time research assistants and postdoc researchers. Please email me your CV and a cover letter if you are interested in working in my lab.
+:police_car_light: HIRING! I am open to mentor graduate and undergraduate students. I am also looking for full-time [data analysts](https://wustl.wd1.myworkdayjobs.com/en-US/External/details/Senior-Statistical-Data-Analyst---Biostatistics_JR78752?q=informatics) and postdoc researchers. Please email me your CV and a cover letter if you are interested in working in my lab.
 
 You can reach me at linyingz [at] wustl [dot] edu or on [Twitter](https://twitter.com/Z_Linying). 
 
 News
 ------
+* Dec 10 2023: I will be the senior chair at the causality in health roundable at [Machine Learning for Health (ML4H)](https://ml4h.cc/2023/index.html)! 
 * Nov 11-15 2023: I will be at the [AMIA Symposium](https://amia.org/education-events/amia-2023-annual-symposium) presenting our work on causality for health disparities research!<br>
 * Oct 2023: I started my job as an assistant professor of biostatistics at Washington University! <br>
 * July 2023: I successfully defended my [thesis](https://doi.org/10.7916/9mj1-z342)! <br>
