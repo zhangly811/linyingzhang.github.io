@@ -14,7 +14,7 @@ My recent research has focused on addressing confounding bias in observational s
 2. developing heterogeneous and individualized treatment effect estimation algorithms for personalized treatment planning.
 3. improving the equity of health care through machine learning.
 
-:police_car_light: HIRING! I am open to mentor graduate and undergraduate students. I am also looking for full-time [data analysts](https://wustl.wd1.myworkdayjobs.com/en-US/External/details/Senior-Statistical-Data-Analyst---Biostatistics_JR78752?q=informatics) and postdoc researchers. Please email me your CV and a cover letter if you are interested in working in my lab.
+**HIRING!** I am open to mentor graduate and undergraduate students. I am also looking for full-time [data analysts](https://wustl.wd1.myworkdayjobs.com/en-US/External/details/Senior-Statistical-Data-Analyst---Biostatistics_JR78752?q=informatics) and postdoc researchers. Please email me your CV and a cover letter if you are interested in working in my lab.
 
 You can reach me at linyingz [at] wustl [dot] edu or on [Twitter](https://twitter.com/Z_Linying). 
 
