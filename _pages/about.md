@@ -14,12 +14,14 @@ My recent research has focused on addressing confounding bias in observational s
 2. developing heterogeneous and individualized treatment effect estimation algorithms for personalized treatment planning.
 3. improving the equity of health care through machine learning.
 
-**HIRING!** I am open to mentor graduate and undergraduate students. I am also looking for full-time [data analysts](https://wustl.wd1.myworkdayjobs.com/en-US/External/details/Senior-Statistical-Data-Analyst---Biostatistics_JR78752?q=informatics) and postdoc researchers. Please email me your CV and a cover letter if you are interested in working in my lab.
+**HIRING!** I am open to mentor graduate and undergraduate students. I am also looking for full-time [data analysts](https://wustl.wd1.myworkdayjobs.com/en-US/External/details/Senior-Statistical-Data-Analyst---Biostatistics_JR78752) and [postdoc](https://wustl.wd1.myworkdayjobs.com/en-US/External/job/Postdoctoral-Research-Associate---Biostatistics_JR78995) researchers. Please email me your CV and a cover letter if you are interested in working in my lab.
 
 You can reach me at linyingz [at] wustl [dot] edu or on [Twitter](https://twitter.com/Z_Linying). 
 
 News
 ------
+* Feb 5-7: I will be presenting the work on the [algorithmic fairness of eGFR](https://www.medrxiv.org/content/medrxiv/early/2021/10/26/2021.10.26.21265423.full.pdf) at AIMHC in Santa Ana, CA!
+* Dec 31 2023: Our paper titled [Causal Fairness Assessment of Treatment Allocation with Electronic Health Records](https://arxiv.org/abs/2211.11183) was accepted at JBI! 
 * Dec 10 2023: I will be the senior chair at the causality in health roundable at [Machine Learning for Health (ML4H)](https://ml4h.cc/2023/index.html)! 
 * Nov 11-15 2023: I will be at the [AMIA Symposium](https://amia.org/education-events/amia-2023-annual-symposium) presenting our work on causality for health disparities research!<br>
 * Oct 2023: I started my job as an assistant professor of biostatistics at Washington University! <br>
@@ -29,14 +31,14 @@ News
 
 Selected Publications & Preprints
 ------
-**Causal machine learning for reliable real-world evidence generation in healtcare.**<br>
+**Causal machine earning for reliable real-world evidence generation in healtcare.**<br>
 **Linying Zhang**<br>
 *PhD thesis, Columbia University*, 2023. <br>
 [[URL](https://doi.org/10.7916/9mj1-z342)]
 
-**A Bayesian causal inference approach for assessing fairness in clinical decision-making.**<br> 
+**Causal fairness assessment of treatment allocation with electronic health records.**<br> 
 **Zhang L.**, Richter L.R., Wang Y., Ostropolets A., Elhadad N., Blei D.M., and Hripcsak G.<br>
-*arXiv preprint*, 2022.<br>
+*JBI* (to appear), 2023.<br>
 [[PDF](https://linyingzhang.com/files/Zhang2022_principalFairness_arXiv.pdf)]
 
 **Adjusting for indirectly measured confounding using large-scale propensity score.**<br>
@@ -45,8 +47,8 @@ Selected Publications & Preprints
 [[PDF](https://reader.elsevier.com/reader/sd/pii/S153204642200209X?token=7D24E23865F71461F9B7FCD6D57A28A565FB3CCADA6D4BB9715DA469C4C051F2C48896E9AC9AD7E7083F7A1CAA54B8F3&originRegion=us-east-1&originCreation=20221105155752)]
 
 **Assessing the impact of race on glomerular filtration rate (GFR) prediction.**<br>
-**L. Zhang**, L.R. Richter, and G. Hripcsak.<br>
-*medRxiv*, 2021.  
+**L. Zhang**, L.R. Richter, T. Kim, and G. Hripcsak.<br>
+*IEEE International Conference on Artificial Intelligence x Medicine, Health, and Care (AIMHC)*, 2024.  
 [[PDF](https://www.medrxiv.org/content/medrxiv/early/2021/10/26/2021.10.26.21265423.full.pdf)]
 
 **The Medical Deconfounder: Assessing Treatment Effects with Electronic Health Records.**<br>
@@ -63,7 +65,6 @@ Richter L.R., Albert B.I., **Zhang L.**, Ostropolets A., Zitsman J.L., Fennoy I.
 Song W., **Zhang L.**, Liu L., Sainlaire M., Karvar M., Kang M., Pullman A., Lipsitz S., Massaro A., Patil N., Jasuja R., and Dykes P.C. <br>
 *Journal of the American Medical Informatics Association*, 2022.<br>
 [[PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9129151/pdf/ocac083.pdf)]
-
 
 **Predicting pressure injury using nursing assessment phenotypes and machine learning methods.**<br>
 Song W., Kang M., **Zhang L.**, Jung W., Song J., Bates D., and Dykes P.C. <br>
