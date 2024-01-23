@@ -14,7 +14,9 @@ My recent research has focused on addressing confounding bias in observational s
 2. developing heterogeneous and individualized treatment effect estimation algorithms for personalized treatment planning.
 3. improving the equity of health care through machine learning.
 
-**HIRING!** I am open to mentor graduate and undergraduate students. I am also looking for full-time [data analysts](https://wustl.wd1.myworkdayjobs.com/en-US/External/details/Senior-Statistical-Data-Analyst---Biostatistics_JR78752) and [postdoc](https://wustl.wd1.myworkdayjobs.com/en-US/External/job/Postdoctoral-Research-Associate---Biostatistics_JR78995) researchers. Please email me your CV and a cover letter if you are interested in working in my lab.
+**HIRING!** I am looking for one [postdoctoral fellow](https://linyingzhang.com/files/Postdoc.pdf) or [senior data analyst](https://linyingzhang.com/files/Analyst.pdf). Please email me your CV, cover letter, and 2-3 publications if you are interested in working in my lab.
+
+**PhD Students** I am looking to add 1-2 PhD students starting Fall 2024. Please apply directly to the [Biomedical Informatics and Data Science (BIDS)](https://dbbs.wustl.edu/programs/biomedical-informatics-data-science/) PhD program at Washington University School of Medicine. In your PhD application, please explicitly mention your interest in working with Professor Linying Zhang. Existing BIDS and Computational \& Systems Biology PhD students interested in rotating through the lab should email me directly.
 
 You can reach me at linyingz [at] wustl [dot] edu or on [Twitter](https://twitter.com/Z_Linying). 
 
