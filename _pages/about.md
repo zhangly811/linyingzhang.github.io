@@ -51,7 +51,7 @@ Selected Publications & Preprints
 **Adjusting for indirectly measured confounding using large-scale propensity score.**<br>
 **Zhang L**, Wang Y, Schuemie MJ, Blei DM, and Hripcsak G.<br>
 *Journal of Biomedical Informatics*, 2022.  
-[[PDF](https://reader.elsevier.com/reader/sd/pii/S153204642200209X?token=7D24E23865F71461F9B7FCD6D57A28A565FB3CCADA6D4BB9715DA469C4C051F2C48896E9AC9AD7E7083F7A1CAA54B8F3&originRegion=us-east-1&originCreation=20221105155752)]
+[[PDF](https://doi.org/10.1016/j.jbi.2022.104204)]
 
 **Assessing the impact of race on glomerular filtration rate (GFR) prediction.**<br>
 **Zhang L**, Richter LR, Kim T, and Hripcsak G.<br>
