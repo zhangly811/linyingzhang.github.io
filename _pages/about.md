@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an assistant professor of biostatistics at the [Institute for Informatics, Data Science, & Biostatistics](https://i2db.wustl.edu) at [Washington University School of Medicine in St. Louis](https://medicine.wustl.edu). My research focuses on developing causal inference and machine learning for real-world evidence generation from electronic health records. I completed my PhD in Biomedical Informatics at [Columbia University](https://www.dbmi.columbia.edu), advised by [George Hripcsak](http://people.dbmi.columbia.edu/hripcsak/) and [David Blei](http://www.cs.columbia.edu/~blei/). I have a master's degree in Computational Biology from [Harvard School of Public Health](https://www.hsph.harvard.edu) and a bachelor's degree from Boston University. Here is my [CV](https://linyingzhang.com/files/CV_linyingzhang.pdf).
+I am an assistant professor of biostatistics at the [Institute for Informatics, Data Science, & Biostatistics](https://i2db.wustl.edu) at [Washington University School of Medicine in St. Louis](https://medicine.wustl.edu). My research integrates causal modeling and machine learning for improving the reliability of evidence generation and building responsible AI algorithms. I completed my PhD in Biomedical Informatics at [Columbia University](https://www.dbmi.columbia.edu), advised by [George Hripcsak](http://people.dbmi.columbia.edu/hripcsak/) and [David Blei](http://www.cs.columbia.edu/~blei/). I have a master's degree in Computational Biology from [Harvard School of Public Health](https://www.hsph.harvard.edu) and a bachelor's degree from Boston University. Here is my [CV](https://linyingzhang.com/files/CV_linyingzhang.pdf).
 
 My recent research has focused on addressing confounding bias in observational studies using real-world data, and explaining root causes of healthcare disparities with causal machine learning. My research interests include: 
 1. developing federated causal machine learning for treatment effect estimation across multiple databases without sharing patient-level data.
@@ -33,7 +33,7 @@ News
 
 Selected Publications & Preprints
 ------
-**Causal machine earning for reliable real-world evidence generation in healtcare.**<br>
+**Causal machine earning for reliable real-world evidence generation in healthcare.**<br>
 **Linying Zhang**<br>
 *PhD thesis, Columbia University*, 2023. <br>
 [[URL](https://doi.org/10.7916/9mj1-z342)]
@@ -46,17 +46,17 @@ Selected Publications & Preprints
 **Causal fairness assessment of treatment allocation with electronic health records.**<br> 
 **Zhang L**, Richter LR, Wang Y, Ostropolets A, Elhadad N, Blei DM, and Hripcsak G.<br>
 *JBI* (to appear), 2023.<br>
-[[PDF](https://linyingzhang.com/files/Zhang2022_principalFairness_arXiv.pdf)]
+[[PDF](https://doi.org/10.48550/arXiv.2211.11183)]
 
 **Adjusting for indirectly measured confounding using large-scale propensity score.**<br>
 **Zhang L**, Wang Y, Schuemie MJ, Blei DM, and Hripcsak G.<br>
 *Journal of Biomedical Informatics*, 2022.  
 [[PDF](https://doi.org/10.1016/j.jbi.2022.104204)]
 
-**Assessing the impact of race on glomerular filtration rate (GFR) prediction.**<br>
+**Evaluating and Improving the Performance and Racial Fairness of Algorithms for GFR Estimation.**<br>
 **Zhang L**, Richter LR, Kim T, and Hripcsak G.<br>
 *IEEE International Conference on Artificial Intelligence x Medicine, Health, and Care (AIMHC)*, 2024.  
-[[PDF](https://www.medrxiv.org/content/medrxiv/early/2021/10/26/2021.10.26.21265423.full.pdf)]
+[[PDF](https://doi.org/10.1101/2024.01.07.24300943)]
 
 **The Medical Deconfounder: Assessing Treatment Effects with Electronic Health Records.**<br>
 **Zhang L**, Wang Y, Ostropolets A, Mulgrave JJ, Blei DM, and Hripcsak G.<br>
