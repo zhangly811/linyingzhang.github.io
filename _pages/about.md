@@ -16,7 +16,7 @@ My recent research has focused on addressing confounding bias in observational s
 
 **HIRING!** I am looking for one [postdoctoral fellow](https://linyingzhang.com/files/Postdoc.pdf) or [senior data analyst](https://linyingzhang.com/files/Analyst.pdf). Please email me your CV, cover letter, and 2-3 publications if you are interested in working in my lab.
 
-**PhD Students** I am looking to add 1-2 PhD students starting Fall 2024. Please apply directly to the [Biomedical Informatics and Data Science (BIDS)](https://dbbs.wustl.edu/programs/biomedical-informatics-data-science/) PhD program at Washington University School of Medicine. In your PhD application, please explicitly mention your interest in working with Professor Linying Zhang. Existing BIDS and Computational \& Systems Biology PhD students interested in rotating through the lab should email me directly.
+**PhD Students** I am looking to add 1-2 PhD students starting Fall 2024. Please apply directly to the [Biomedical Informatics and Data Science (BIDS)](https://dbbs.wustl.edu/programs/biomedical-informatics-data-science/) PhD program at Washington University School of Medicine. In your PhD application, please explicitly mention your interest in working with Professor Linying Zhang. Existing BIDS and Computational & Systems Biology (CSB) PhD students interested in rotating through the lab should email me directly.
 
 You can reach me at linyingz [at] wustl [dot] edu or on [Twitter](https://twitter.com/Z_Linying). 
 
