@@ -7,16 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an assistant professor of biostatistics at the [Institute for Informatics, Data Science, & Biostatistics](https://i2db.wustl.edu) at [Washington University School of Medicine in St. Louis](https://medicine.wustl.edu). My research integrates causal modeling and machine learning for improving the reliability of evidence generation and building responsible AI algorithms. I completed my PhD in Biomedical Informatics at [Columbia University](https://www.dbmi.columbia.edu), advised by [George Hripcsak](http://people.dbmi.columbia.edu/hripcsak/) and [David Blei](http://www.cs.columbia.edu/~blei/). I have a master's degree in Computational Biology from [Harvard School of Public Health](https://www.hsph.harvard.edu) and a bachelor's degree from Boston University. Here is my [CV](https://linyingzhang.com/files/CV_linyingzhang.pdf).
+I am an assistant professor of biostatistics at the [Institute for Informatics, Data Science, & Biostatistics](https://i2db.wustl.edu) at [Washington University School of Medicine in St. Louis](https://medicine.wustl.edu). My research integrates causal modeling and machine learning for more reliable real-world evidence generation and building responsible AI algorithms in health care. I am the principal investigator of the [CausAI Lab](https://causailab.github.io). I received my PhD in Biomedical Informatics from [Columbia University](https://www.dbmi.columbia.edu), MS in Computational Biology from [Harvard University](https://www.hsph.harvard.edu), and BA from [Boston University](https://www.bu.edu/).
 
-My recent research has focused on addressing confounding bias in observational studies using real-world data, and explaining root causes of healthcare disparities with causal machine learning. My research interests include: 
-1. developing federated causal machine learning for treatment effect estimation across multiple databases without sharing patient-level data.
-2. developing heterogeneous and individualized treatment effect estimation algorithms for personalized treatment planning.
-3. improving the equity of health care through machine learning.
+**Hiring!** I am looking for one [postdoctoral fellow](https://linyingzhang.com/files/Postdoc.pdf) or [senior data analyst](https://linyingzhang.com/files/Analyst.pdf). Please email me your CV, cover letter, and 2-3 publications if you are interested in working in my lab. Please see my [lab website](https://causailab.github.io) for more information.
 
-**HIRING!** I am looking for one [postdoctoral fellow](https://linyingzhang.com/files/Postdoc.pdf) or [senior data analyst](https://linyingzhang.com/files/Analyst.pdf). Please email me your CV, cover letter, and 2-3 publications if you are interested in working in my lab.
-
-**PhD Students** I am looking to add 1-2 PhD students starting Fall 2024. Please apply directly to the [Biomedical Informatics and Data Science (BIDS)](https://dbbs.wustl.edu/programs/biomedical-informatics-data-science/) PhD program at Washington University School of Medicine. In your PhD application, please explicitly mention your interest in working with Professor Linying Zhang. Existing BIDS and Computational & Systems Biology (CSB) PhD students interested in rotating through the lab should email me directly.
+**Prospective PhD Students** I am looking for 1-2 PhD students starting Fall 2024. Please apply directly to the [Biomedical Informatics and Data Science (BIDS)](https://dbbs.wustl.edu/programs/biomedical-informatics-data-science/) PhD program at Washington University School of Medicine. In your PhD application, please explicitly mention your interest in working with Professor Linying Zhang. Existing BIDS and Computational & Systems Biology (CSB) PhD students interested in rotating through the lab should email me directly.
 
 You can reach me at linyingz [at] wustl [dot] edu or on [Twitter](https://twitter.com/Z_Linying). 
 
