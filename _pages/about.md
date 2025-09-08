@@ -7,24 +7,23 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an assistant professor of biostatistics at the [Institute for Informatics, Data Science, & Biostatistics](https://i2db.wustl.edu) at [Washington University School of Medicine in St. Louis](https://medicine.wustl.edu). My research integrates causal modeling and machine learning for more reliable real-world evidence generation and building responsible AI algorithms in health care. I am the principal investigator of the [CausAI Lab](https://causailab.github.io). I received my PhD in Biomedical Informatics from [Columbia University](https://www.dbmi.columbia.edu), MS in Computational Biology from [Harvard University](https://www.hsph.harvard.edu), and BA from [Boston University](https://www.bu.edu/).
+Dr. Linying Zhang is an Assistant Professor of Biostatistics at the [Institute for Informatics, Data Science and Biostatistics](https://i2db.wustl.edu) at [Washington University School of Medicine in St. Louis](https://medicine.wustl.edu). She leads the [CausAI Lab](https://causailab.github.io), which advances methods at the intersection of `causality` and `machine learning/artificial intelligence (ML/AI)` to enhance the explainability, generalizability, and fairness of models trained on electronic health records (EHRs), with applications in real-world evidence generation and clinical risk prediction.
 
-**Hiring!** I am looking for one [postdoctoral fellow](https://linyingzhang.com/files/Postdoc.pdf) or [senior data analyst](https://linyingzhang.com/files/Analyst.pdf). Please email me your CV, cover letter, and 2-3 publications if you are interested in working in my lab. Please see my [lab website](https://causailab.github.io) for more information.
+## Lab mission
+ML/AI has the potential to revolutionize healthcare if developed and deployed thoughtfully. In healthcare, AI models are frequently trained on real-world data (RWD), which are inherently imperfect -- frequently missing not at random, irregularly sampled, subject to measurement error, and reflective of existing health disparities. To realize AI’s promise, it is essential to design methodologies that correct these biases and limitations.
 
-**Prospective PhD Students** I am looking for 1-2 PhD students starting Fall 2024. Please apply directly to the [Biomedical Informatics and Data Science (BIDS)](https://dbbs.wustl.edu/programs/biomedical-informatics-data-science/) PhD program at Washington University School of Medicine. In your PhD application, please explicitly mention your interest in working with Professor Linying Zhang. Existing BIDS and Computational & Systems Biology (CSB) PhD students interested in rotating through the lab should email me directly.
+The `CausAI Lab` is dedicated to tackling these challenges by integrating causality with machine learning/AI to produce `reliable real-world evidence` and build `equitable clinical AI` models that benefit all patient populations.
+
+For the most up-to-date information, please visit the [CausAI Lab](https://causailab.github.io) website.
+
+## Join us
+**Post-doc Fellows** We are looking for one [postdoctoral fellow](https://linyingzhang.com/files/Postdoc.pdf) to work on causal AI for health care.
+
+**PhD Students** We are looking for 1-2 PhD students starting Fall 2026. Please apply directly to the [Biomedical Informatics and Data Science (BIDS)](https://dbbs.wustl.edu/programs/biomedical-informatics-data-science/) PhD program at Washington University School of Medicine. In your PhD application, please explicitly mention your interest in working with Professor Linying Zhang. Existing BIDS and Computational & Systems Biology (CSB) PhD students interested in rotating through the lab should email Dr. Zhang directly.
+
+**Undergraduates or Master's Students** Undergraduates and Master's students looking for research opportunities are encouraged to apply through the [BIDS@I2 Summer Research Internship](https://i2db.wustl.edu/education-programs/bids-summer-internship/). We are looking for students who have taken at least one machine learning course and received a good grade. For masters students, we typically expect students to have taken a graduate-level machine learning course and a graduate-level probability or statistical inference course, or have had significant related research experience. WashU students interested in research assistantship should email Dr. Zhang directly.
 
 You can reach me at linyingz [at] wustl [dot] edu or on [Twitter](https://twitter.com/Z_Linying). 
-
-News
-------
-* Feb 5-7: I will be presenting the work on the [algorithmic fairness of eGFR](https://www.medrxiv.org/content/medrxiv/early/2021/10/26/2021.10.26.21265423.full.pdf) at AIMHC in Santa Ana, CA!
-* Dec 31 2023: Our paper titled [Causal Fairness Assessment of Treatment Allocation with Electronic Health Records](https://arxiv.org/abs/2211.11183) was accepted at JBI! 
-* Dec 10 2023: I will be the senior chair at the causality in health roundable at [Machine Learning for Health (ML4H)](https://ml4h.cc/2023/index.html)! 
-* Nov 11-15 2023: I will be at the [AMIA Symposium](https://amia.org/education-events/amia-2023-annual-symposium) to present our work on [explaining treatment disparities with causality](https://linyingzhang.com/files/Zhang2023_Explaining.pdf)!<br>
-* Oct 2023: I started my job as an assistant professor of biostatistics at Washington University! <br>
-* July 2023: I successfully defended my [thesis](https://doi.org/10.7916/9mj1-z342)! <br>
-* Oct 2022: I received the OHDSI Best Community Contribution Award in Methodological Research for my work on [health equity](https://www.ohdsi.org/2022showcase-117/)! <br>
-
 
 Selected Publications & Preprints
 ------
@@ -73,10 +72,3 @@ Song W, Kang M, **Zhang L**, Jung W, Song J, Bates D, and Dykes PC. <br>
 *Journal of the American Medical Informatics Association*, 2021.<br>
 [[PDF](https://linyingzhang.com/files/Song2021.pdf)]
 
-
-
-Teaching
-------
-Computational Methods. *Columbia University*. Spring 2020.<br>
-Computer Applications in Health Care & Biomedicine. *Columbia University*. Fall 2019.<br>
-Principles of Biostatistics I&II. *Harvard T.H.Chan School of Public Health*. Summer 2017.
